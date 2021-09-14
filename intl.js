@@ -1,4 +1,4 @@
-var areIntlLocalesSupported = require('intl-locales-supported')
+var areIntlLocalesSupported = require('intl-locales-supported').default
 var supportedLocales = [
   'en',
   'pt-BR'
